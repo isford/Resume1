@@ -1,19 +1,57 @@
 body {
-  background-color: green;
+  background-color: floralwhite;
 }
 
 h1 {
-  color: white;
+  color: darkolivegreen;
   font-size: 36px;
-  font-family: Palatino, Helvetica, sans-serif;
+  font-family: Palatino;
 }
 
 .name{
-  background-color: purple;
-  padding-left: 10px;
-  border: 1px solid purple;
+  background-color: floralwhite;
+  text-align: center;
+  
 }
 
 .footer{
   background-color: white;
+ 
+}
+
+.address{
+  font-family: Palatino;
+  text-align: center;
+  
+}
+
+h3 {
+  color: darkolivegreen;
+  font-weight: 900;
+  margin-left: 10px
+}
+
+h4 {
+  color: darkolivegreen;
+  margin-left: 10px;
+}
+
+li {
+  font-family: Palatino
+}
+
+img{
+  border-radius: 80%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+    
+}
+
+.secondtitle{
+  text-decoration: underline;
+  text-decoration-color: darkolivegreen;
 }
